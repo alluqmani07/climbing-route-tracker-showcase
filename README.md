@@ -8,14 +8,6 @@ The climber (or a judge) taps **Grip** for each hold reached, **Fall** for a fal
 
 ---
 
-## Screenshots
-
-| Portrait | Landscape | Arabic (RTL) |
-|:---:|:---:|:---:|
-| <img src="screenshots/portrait.png" width="220"/> | <img src="screenshots/landscape.png" width="360"/> | <img src="screenshots/arabic.png" width="220"/> |
-
----
-
 ## How the scoring works
 
 | Rule | Detail |
@@ -68,4 +60,4 @@ Every ignored action (such as Grip after a fall) is guarded and logged, so the s
 
 Built by **Khalid Alluqmani**, 2026.
 
-📫 Source code available upon request.
+📫 Want to see the code or the full project? Contact me at [alluqmanikhalid2@gmail.com](mailto:alluqmanikhalid2@gmail.com)
