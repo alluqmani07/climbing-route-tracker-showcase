@@ -4,7 +4,7 @@
 
 The climber (or a judge) taps **Grip** for each hold reached, **Fall** for a fall, and **Chalk Up** once per climb. The app keeps the score, the current hold and the combo streak, colours the score by zone, and announces when the route is complete. It works in portrait and landscape, keeps its state when the phone rotates, and is fully translated into Arabic.
 
-> 🔒 **The source code is private** (university coursework). This repository shows the project and how it works. The code is available on request: get in touch and I'll add you to the private repository.
+> 🔒 **Private project.** The source code is private and available upon request.
 
 ---
 
@@ -66,6 +66,6 @@ Every ignored action (such as Grip after a fall) is guarded and logged, so the s
 
 ## About
 
-Built by **Khalid Alluqmani** for a university mobile development unit, 2026.
+Built by **Khalid Alluqmani**, 2026.
 
-📫 Want to see the code? Contact me and I'll grant access to the private repository.
+📫 Source code available upon request.
