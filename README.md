@@ -8,6 +8,18 @@ The climber (or a judge) taps **Grip** for each hold reached, **Fall** for a fal
 
 ---
 
+## Screenshots
+
+| Mid-climb (chalk used) | Route complete | Arabic (RTL) |
+|:---:|:---:|:---:|
+| <img src="screenshots/portrait.png" width="220"/> | <img src="screenshots/complete.png" width="220"/> | <img src="screenshots/arabic.png" width="220"/> |
+
+**Landscape:** a two-column layout, and the state is kept after rotating.
+
+<img src="screenshots/landscape.png" width="600"/>
+
+---
+
 ## How the scoring works
 
 | Rule | Detail |
